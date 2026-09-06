@@ -1,0 +1,7 @@
+services:
+  ntc-price-calculator:
+    build: .
+    container_name: ntc-price-calculator
+    ports:
+      - "8080:80"
+    restart: unless-stopped

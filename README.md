@@ -1,5 +1,3 @@
-# NTC-Price-Calculator
-
 # NTC Data Center Price Calculator
 
 ## 1. Project Introduction
@@ -16,19 +14,19 @@ The interface is designed with a clean responsive layout, Light/Dark mode suppor
 
 ## 2. Main Features
 
-* Responsive NTC-branded web interface
-* Light and Dark mode
-* Service-category based price calculation
-* Interactive configuration inputs
-* Automatic cost estimation
-* One-time and recurring cost presentation where applicable
-* Estimate export / print functionality
-* Print-friendly estimate page
-* Browser-tab NTC favicon
-* NTC logo and contact section
-* Client-side application with no database requirement
-* Docker support for consistent deployment
-* GitHub-ready project structure
+- Responsive NTC-branded web interface
+- Light and Dark mode
+- Service-category based price calculation
+- Interactive configuration inputs
+- Automatic cost estimation
+- One-time and recurring cost presentation where applicable
+- Estimate export / print functionality
+- Print-friendly estimate page
+- Browser-tab NTC favicon
+- NTC logo and contact section
+- Client-side application with no database requirement
+- Docker support for consistent deployment
+- GitHub-ready project structure
 
 ---
 
@@ -51,23 +49,23 @@ The application source contains the configured tariff data required by the calcu
 
 ### Frontend
 
-* **React** — user interface
-* **Vite** — development server and build tool
-* **JavaScript / JSX** — application logic
-* **CSS** — responsive styling and theme system
-* **HTML5** — document structure
+- **React** — user interface
+- **Vite** — development server and build tool
+- **JavaScript / JSX** — application logic
+- **CSS** — responsive styling and theme system
+- **HTML5** — document structure
 
 ### Development
 
-* **Visual Studio Code** — development environment
-* **Node.js / npm** — dependency management and local development
-* **Git / GitHub** — version control and project sharing
+- **Visual Studio Code** — development environment
+- **Node.js / npm** — dependency management and local development
+- **Git / GitHub** — version control and project sharing
 
 ### Deployment
 
-* **Docker** — containerized application environment
-* **Docker Compose** — simplified container startup
-* **Nginx** — production web server inside the container
+- **Docker** — containerized application environment
+- **Docker Compose** — simplified container startup
+- **Nginx** — production web server inside the container
 
 ---
 
@@ -113,9 +111,9 @@ The `src/data/tariffs.js` file contains the application data used by the calcula
 
 Install the following before running the project locally:
 
-* Node.js
-* npm
-* Visual Studio Code (recommended)
+- Node.js
+- npm
+- Visual Studio Code (recommended)
 
 ### Step 1 — Open the project
 
@@ -248,7 +246,3 @@ This application is an estimation interface. Final charges, applicable taxes, av
 ## 13. Project Status
 
 **Status:** Final development version — pending project/supervisor approval before public repository publication.
-
-
-
-

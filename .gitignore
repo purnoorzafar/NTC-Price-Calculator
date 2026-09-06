@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Project reference/source material — keep private unless authorized
+# Uncomment/keep these entries when using a public GitHub repository.
+docs/
+TARIFF_UPDATE_GUIDE.md
